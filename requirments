@@ -1,0 +1,8 @@
+
+pandas
+numpy
+matplotlib.pyplot
+scipy.signal
+find_peaks
+plotly.graph_objects
+plotly.io
